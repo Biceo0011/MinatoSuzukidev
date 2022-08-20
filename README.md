@@ -34,3 +34,5 @@ Frameworks: .NET | React | Next | Vue | Django | Flask | Express | Unity | Unrea
 
 I am a solo developer and work on every aspect of the project myself so you can rest assured you are directly interacting with me.
 Thank you
+<img align="right" alt="Coding" width="400" src="F:\Minato GIthub\1.png">
+

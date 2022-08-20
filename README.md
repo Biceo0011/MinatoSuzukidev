@@ -35,4 +35,5 @@ Frameworks: .NET | React | Next | Vue | Django | Flask | Express | Unity | Unrea
 I am a solo developer and work on every aspect of the project myself so you can rest assured you are directly interacting with me.
 Thank you
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 

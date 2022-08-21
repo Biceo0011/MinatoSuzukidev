@@ -7,9 +7,6 @@
    <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
 
-<a href="https://app.daily.dev/Rajel">
- <img align="right" src="/devcard.svg" alt="DevCard" width="270">
-</a>
 
 <p width="300">
 Hi. everyone!
